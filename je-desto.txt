@@ -1,21 +1,21 @@
-Je stärker Akzeptanz als Ziel der Bürgerbeteiligung wahrgenommen wird, desto geringer werden die Akzeptanz des Beteiligungsverfahrens und die Akzeptanz des Ergebnisses des Beteiligungsverfahrens. 
-Je transparenter und nachvollziehbarer der Entscheidungsprozesse offengelegt werden, desto wahrscheinlicher steigen die Akzeptanz des Beteiligungsverfahrens und die Akzeptanz des Ergebnisses des Beteiligungsverfahrens. 
-Je repräsentativer die Teilnehmer des Beteiligungsprozesses ausgewählt werden, desto wahrscheinlicher sind eine breite Akzeptanz des Beteiligungsverfahrens und die Akzeptanz des Ergebnisses des Beteiligungsverfahrens. 
-Je repräsentativer die Teilnehmer des Beteiligungsprozesses ausgewählt werden, desto länger dauern Vorbereitung und Durchführung des Beteiligungsverfahrens. 
-Je exakter der Wirkungskreis des Projektes bestimmbar ist und bestimmt wird und das Auswahlverfahren der Teilnehmer darauf abgestimmt wird, desto höher sind die Wahrscheinlichkeit der Akzeptanz des Beteiligungsverfahrens und die Akzeptanz des Ergebnisses des Beteiligungsverfahrens.
-Je kleiner der Wirkungskreis des Projektes gefasst wird, desto mehr steigt die Gefahr von Protest und Widerstand nach Durchführung des Beteiligungsprozesses. 
-Je größer der Wirkungskreis gefasst, desto langwieriger ist der Auswahlprozess der potentiell Teilnehmenden. 
-Je größer der Wirkungskreis des Projektes gefasst wird, desto langwieriger gestaltet sich der Beteiligungsprozess. 
-Je früher der Beteiligungsprozess initiiert wird, desto niedriger ist die Bereitschaft der Bürger sich daran zu beteiligen. 
-Je später der Beteiligungsprozess initiiert wird, desto höher ist die Bereitschaft der Bürger sich daran zu beteiligen.
-Je später der Beteiligungsprozess initiiert wird, desto geringer sind die Einflussmöglichkeiten durch Bürgerbeteiligung. 
-Je früher der Beteiligungsprozess initiiert wird, desto höher sind die Einflussmöglichkeiten durch Bürgerbeteiligung.
-Je mehr zeitlicher Puffer im Beteiligungsprozess eingeplant wird, desto besser kann man auf politische Unwägbarkeiten reagieren. 
-Je weniger zeitlicher Puffer im Beteiligungsprozess eingeplant wird, desto schlechter kann man auf politische Unwägbarkeiten reagieren. 
-Je mehr zeitlicher Puffer im Beteiligungsprozess eingeplant wird, desto geringer ist die Bereitschaft der Bürger sich zu beteiligen. 
-Je weniger zeitlicher Puffer im Beteiligungsprozess eingeplant wird, desto höher ist die Bereitschaft der Bürger sich zu beteiligen. 
-Je höher das Maß ist, indem den Moderatoren und Initiatoren, Objektivität und Unparteilichkeit unterstellt wird, desto höher sind die Akzeptanz des Beteiligungsverfahrens und die Akzeptanz des Ergebnisses des Beteiligungsverfahrens. 
-Je höher das Maß ist, indem den Moderatoren und Initiatoren, Objektivität und Unparteilichkeit unterstellt wird, desto geringer ist der Zeitraum, welcher der Beteiligungsprozess andauert. 
-Je stärker auf die Bedürfnisse aller Zielgruppen eingegangen wird, desto länger dauert der Beteiligungsprozess. 
-Je stärker auf die Bedürfnisse aller Zielgruppen eingegangen wird, desto höher liegt die Wahrscheinlichkeit partizipative Formate auszuwählen, die den Prozess gefährden können. 
+Je; stärker Akzeptanz als Ziel der Bürgerbeteiligung wahrgenommen wird; desto; geringer werden die Akzeptanz des Beteiligungsverfahrens und die Akzeptanz des Ergebnisses des Beteiligungsverfahrens.
+Je; transparenter und nachvollziehbarer der Entscheidungsprozesse offengelegt werden; desto; wahrscheinlicher steigen die Akzeptanz des Beteiligungsverfahrens und die Akzeptanz des Ergebnisses des Beteiligungsverfahrens.
+Je; repräsentativer die Teilnehmer des Beteiligungsprozesses ausgewählt werden; desto; wahrscheinlicher sind eine breite Akzeptanz des Beteiligungsverfahrens und die Akzeptanz des Ergebnisses des Beteiligungsverfahrens.
+Je; repräsentativer die Teilnehmer des Beteiligungsprozesses ausgewählt werden; desto; länger dauern Vorbereitung und Durchführung des Beteiligungsverfahrens.
+Je; exakter der Wirkungskreis des Projektes bestimmbar ist und bestimmt wird und das Auswahlverfahren der Teilnehmer darauf abgestimmt wird; desto; höher sind die Wahrscheinlichkeit der Akzeptanz des Beteiligungsverfahrens und die Akzeptanz des Ergebnisses des Beteiligungsverfahrens.
+Je; kleiner der Wirkungskreis des Projektes gefasst wird; desto; mehr steigt die Gefahr von Protest und Widerstand nach Durchführung des Beteiligungsprozesses.
+Je; größer der Wirkungskreis gefasst; desto; langwieriger ist der Auswahlprozess der potentiell Teilnehmenden.
+Je; größer der Wirkungskreis des Projektes gefasst wird; desto; langwieriger gestaltet sich der Beteiligungsprozess.
+Je; früher der Beteiligungsprozess initiiert wird; desto; niedriger ist die Bereitschaft der Bürger sich daran zu beteiligen.
+Je; später der Beteiligungsprozess initiiert wird; desto; höher ist die Bereitschaft der Bürger sich daran zu beteiligen.
+Je; später der Beteiligungsprozess initiiert wird; desto; geringer sind die Einflussmöglichkeiten durch Bürgerbeteiligung.
+Je; früher der Beteiligungsprozess initiiert wird; desto; höher sind die Einflussmöglichkeiten durch Bürgerbeteiligung.
+Je; mehr zeitlicher Puffer im Beteiligungsprozess eingeplant wird; desto; besser kann man auf politische Unwägbarkeiten reagieren.
+Je; weniger zeitlicher Puffer im Beteiligungsprozess eingeplant wird; desto; schlechter kann man auf politische Unwägbarkeiten reagieren.
+Je; mehr zeitlicher Puffer im Beteiligungsprozess eingeplant wird; desto; geringer ist die Bereitschaft der Bürger sich zu beteiligen.
+Je; weniger zeitlicher Puffer im Beteiligungsprozess eingeplant wird; desto; höher ist die Bereitschaft der Bürger sich zu beteiligen.
+Je; höher das Maß ist, indem den Moderatoren und Initiatoren, Objektivität und Unparteilichkeit unterstellt wird; desto; höher sind die Akzeptanz des Beteiligungsverfahrens und die Akzeptanz des Ergebnisses des Beteiligungsverfahrens.
+Je; höher das Maß ist, indem den Moderatoren und Initiatoren, Objektivität und Unparteilichkeit unterstellt wird; desto; geringer ist der Zeitraum, welcher der Beteiligungsprozess andauert. 
+Je; stärker auf die Bedürfnisse aller Zielgruppen eingegangen wird; desto; länger dauert der Beteiligungsprozess.
+Je; stärker auf die Bedürfnisse aller Zielgruppen eingegangen wird; desto; höher liegt die Wahrscheinlichkeit partizipative Formate auszuwählen, die den Prozess gefährden können.
 
